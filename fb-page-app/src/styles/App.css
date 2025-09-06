@@ -78,7 +78,7 @@ body {
 
 .featured-row {
   display: flex;
-  gap: 35px; /* space between images */
+  gap: 25px; /* space between images */
   margin-top: 10px;
 }
 
@@ -152,4 +152,5 @@ body {
     width: 100%; /* full width on mobile */
   }
 }
+
 
