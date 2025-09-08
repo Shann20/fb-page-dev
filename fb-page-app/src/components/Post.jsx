@@ -23,6 +23,7 @@ function Post() {
   return (
     <div className="post-container">
       {/* Composer */}
+      <h4>Post</h4>
         <div className="composer-top">
            <img src="./profile.jpg" alt="Profile" className="composer-avatar" />
           <input
@@ -169,3 +170,4 @@ function Post() {
 }
 
 export default Post;
+
